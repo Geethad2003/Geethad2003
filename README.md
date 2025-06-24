@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 <a href="https://github.com/Geethad2003"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethad2003"&theme=tokyonight&hide_border=true"></a>
-<a href="https://github.com/Geethad2003">"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geethad2003"&theme=tokyonight&hide_border=true"></a> 
+<a href="https://github.com/Geethad2003"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geethad2003"&theme=tokyonight&hide_border=true"></a> 
 <br />
 <br />
 <a href="https://github.com/Geethad2003""><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethad2003"&theme=tokyonight&hide_border=true"></a>
