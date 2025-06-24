@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm GEETHA👋</h1>
+<h1 align="center">Hi there, I'm Geetha 👋</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&color=04e0bb&lines=Exploring+Cloud+and+DevOps+☁️;Building+Real-World+Projects+🌍;A+Passionate+Java+Programmer+☕)
 
@@ -31,12 +31,12 @@
 </table> 
 
 ## 📊 GitHub Stats
-<a href="https://github.com/Geethad2003"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethad2003"&theme=tokyonight&hide_border=true"></a>
-<a href="https://github.com/Geethad2003"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geethad2003"&theme=tokyonight&hide_border=true"></a> 
+<a href="https://github.com/Geethad2003"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethad2003&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/Geethad2003"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geethad2003&theme=tokyonight&hide_border=true"></a> 
 <br />
 <br />
-<a href="https://github.com/Geethad2003""><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethad2003"&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/Geethad2003"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethad2003&theme=tokyonight&hide_border=true"></a>
 <br>
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Geethad2003"&label=Profile%20views&color=0e75b6&style=flat" alt="coder-jeshwanth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Geethad2003&label=Profile%20views&color=0e75b6&style=flat" alt="coder-jeshwanth" /> </p>
